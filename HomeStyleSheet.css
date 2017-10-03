@@ -1,0 +1,12 @@
+body {
+    background-color: #8daaee;
+}
+.centeralign{
+    position: absolute;
+    text-align: center;
+    background-color: #e88f8f;
+    width: 800px;
+    margin-left: 250px;
+    margin-right: 250px;
+    height: 600px;
+}
